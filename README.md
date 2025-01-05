@@ -6,9 +6,9 @@ This project focuses on developing an inverse design methodology within a Bayesi
 
 Below are the simulations of the 2D heat equation trained on physics-informed neural networks with initial, boundary, and PDE loss. In their final epoch, the GIF demonstrates the flow of heat across different time scales.
 
-<img src="https://github.com/user-attachments/assets/b53a3291-5cf7-4613-8f29-ed24bf8edc04" alt="TimeDep_2d_HeatEqn_Sphere_Box" width="400" height="400" />
+<img src="https://github.com/user-attachments/assets/b53a3291-5cf7-4613-8f29-ed24bf8edc04" alt="TimeDep_2d_HeatEqn_Sphere_Box" width="500" height="500" />
 
-<img src="https://github.com/user-attachments/assets/a97e0ed9-787f-41a7-9130-5d2e9b82d1f2" alt="2D_Time_Dependent" width="400" height="400" />
+<img src="https://github.com/user-attachments/assets/a97e0ed9-787f-41a7-9130-5d2e9b82d1f2" alt="2D_Time_Dependent" width="500" height="500" />
 
 
 
